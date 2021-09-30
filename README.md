@@ -1,2 +1,3 @@
 # Plastic-Detection
-detecting plastic contaminant in seed cotton (raw cotton)
+Detecting plastic contaminant in seed cotton (raw cotton). Neural network model is built to detect plastic in cotton....
+
